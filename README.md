@@ -1,4 +1,4 @@
 AutoHotkey
 ==========
 
-AutoHotkey scripts
+AutoHotkey standalone exe and my utility scripts.
